@@ -1,0 +1,94 @@
+/* 구글폰트: css에 폰트 불러올때는 @import쓰거나 얘를 html style에 넣거나!// 혹은 아예 link로 연결 
+눈누폰트: @font-face 쓰기/ format: woff/ 적용은 그대로 font-family*/
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Gowun+Batang:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'IBMPlexSansKR-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+html{
+    font-size:20px;
+    background-color: whitesmoke;
+    margin: 0px 30px
+}
+
+#title1{
+    display: inline-block;
+    color: rgb(51, 170, 179);
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 2.5rem;
+    padding: 0px 2.6rem ;
+}
+
+#title2{
+    display: inline-block;
+    color: cornflowerblue;
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 2.5rem;
+    padding: 0px 2.6rem;
+}
+
+.box{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+    width : 1250px;
+    height: 70px;
+    border: solid darkolivegreen;
+    
+    text-align:center;
+}
+
+.sub{
+    font-family: 'IBMPlexSansKR-Regular';
+    color: darkcyan;    
+}
+.sen{
+    font-family: 'IBMPlexSansKR-Regular';
+    color:gray;    
+}
+h4{
+    color: midnightblue;
+    font-family: 'Gowun Batang', serif;
+    font-weight: 400;
+}
+a{
+    color: midnightblue;
+    font-family: 'Gowun Batang', serif;
+    font-weight: 400;
+}
+.index{
+    color: darkblue;
+    font-size: 0.9rem;
+    font-family: 'Gowun Batang', serif;
+    font-weight: 700;
+    display: inline-block;
+    padding:20px 6rem;
+    
+}
+.bar{
+    border: solid 2px darkolivegreen;
+}
+img{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info{
+    font-size: 0.8rem;
+    text-align: center;
+    background-color: lightsteelblue;
+    font-family: 'Gowun Batang', serif;
+    font-weight: 700;
+    margin: 10px 20px;
+}
+h6{
+    font-size: 0.7rem;
+    text-align: right;
+    font-family: 'IBMPlexSansKR-Regular';
+    color: grey;
+}
