@@ -10,6 +10,6 @@ Screen Shot
 =============
 <img width="720" alt="HealthCoinAlarm" src=https://user-images.githubusercontent.com/87460971/173394469-f88876a7-07c8-46eb-99a1-0bde93fb9889.png>
 
-Go To
+For more detail
 ============
-[recommendation project video (https://youtu.be/O5bYS2h-7CI/0.jpg)](https://youtu.be/O5bYS2h-7CI)
+[notion page] (https://jejucodingcamp.notion.site/2-SAN-d0e829ad263e44aea7f102f48e5d2bf7)
