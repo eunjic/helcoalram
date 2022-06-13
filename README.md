@@ -12,4 +12,4 @@ Screen Shot
 
 For more detail
 ============
-[notion page (https://jejucodingcamp.notion.site/2-SAN-d0e829ad263e44aea7f102f48e5d2bf7)]
+[(https://jejucodingcamp.notion.site/2-SAN-d0e829ad263e44aea7f102f48e5d2bf7)]
